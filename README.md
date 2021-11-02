@@ -16,6 +16,7 @@ Talking about Personal Stuffs:
 
 Languages and Tools:
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- Actual text -->
@@ -28,7 +29,6 @@ You can find me on [![gmail][1.2]][1], or on [![LinkedIn][2.2]][2].
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safwen-code&layout=compact)](https://github.com/safwen-code/github-readme-stats)
 
 <!-- Links to your social media accounts -->
 
