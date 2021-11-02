@@ -14,4 +14,5 @@ Talking about Personal Stuffs:
 💬 Ask me about anything, I am happy to help any moment;
 📫 How to reach me: safwendjebbi1234@gmail.com;
 Languages and Tools:
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
