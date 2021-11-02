@@ -4,6 +4,8 @@ Hey there
 Hi, I'm [Safwen djebbi], a Full Stack Javascript Developer 🚀 from Tunisia, passionate about javascript and typeScript ecosystem. focused on creating modern web apps.
 
 Talking about Personal Stuffs:
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<safwen-code>&theme=<THEME_NAME>" />
+
 
 👨🏽‍💻 I’m currently working as freelancer;
 🌱 I’m currently learning angular and vuejs ;
