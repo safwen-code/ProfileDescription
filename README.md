@@ -20,7 +20,7 @@ Languages and Tools:
 
 <!-- Actual text -->
 
-You can find me on [![gmail][1.2]][1], or on [![LinkedIn]].
+You can find me on [![gmail][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
