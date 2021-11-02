@@ -4,7 +4,8 @@ Hey there
 Hi, I'm [Safwen djebbi], a Full Stack Javascript Developer 🚀 from Tunisia, passionate about javascript and typeScript ecosystem. focused on creating modern web apps.
 
 Talking about Personal Stuffs:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![  Safwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=safwen-code&show_icons=true&theme=radical)
+
 
 
 
