@@ -28,7 +28,7 @@ You can find me on [![gmail][1.2]][1], or on [![LinkedIn][2.2]][2].
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=safwen-code)](https://github.com/safwen-code/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safwen-code&layout=compact)](https://github.com/safwen-code/github-readme-stats)
 
 <!-- Links to your social media accounts -->
 
